@@ -17,7 +17,7 @@ Este projeto é uma aplicação Spring Boot que implementa uma API RESTful para 
 * [Java 17 ou superior](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 * [Maven](https://maven.apache.org/install.html)
 * [MongoDB](https://www.mongodb.com/try/download/community)
-* * Postman (opcional para testes)
+* [Postman](https://www.postman.com/downloads/)
 
 ## 📆 Instalação
 
