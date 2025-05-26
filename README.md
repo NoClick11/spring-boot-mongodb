@@ -9,6 +9,7 @@ Este projeto é uma aplicação Spring Boot que implementa uma API RESTful para 
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
 ## ⚙️ Pré-requisitos
@@ -16,6 +17,7 @@ Este projeto é uma aplicação Spring Boot que implementa uma API RESTful para 
 * [Java 17 ou superior](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 * [Maven](https://maven.apache.org/install.html)
 * [MongoDB](https://www.mongodb.com/try/download/community)
+* * Postman (opcional para testes)
 
 ## 📆 Instalação
 
