@@ -81,6 +81,3 @@ mvn test
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
 
-## 🤝 Contribuindo
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
