@@ -52,7 +52,9 @@ A aplicação estará acessível em `http://localhost:8080`
 * Atualizar usuário
 * Deletar usuário
 
-## 📝 Exemplo de Uso
+## 📝 Exemplos de Uso da API
+
+### 🌐 Criar Usuário (POST /user)
 
 ```http
 POST /user
@@ -62,6 +64,36 @@ Content-Type: application/json
   "name": "João da Silva",
   "email": "joao@email.com"
 }
+```
+
+### 📃 Listar Todos os Usuários (GET /user)
+
+```http
+GET /user
+```
+
+### 📄 Buscar Usuário por ID (GET /user/{id})
+
+```http
+GET /user/664e2278eb7c3e3b9abfcd98
+```
+
+### 🔄 Atualizar Usuário (PUT /user/{id})
+
+```http
+PUT /user/664e2278eb7c3e3b9abfcd98
+Content-Type: application/json
+
+{
+  "name": "João da Silva Atualizado",
+  "email": "joao.novo@email.com"
+}
+```
+
+### ❌ Deletar Usuário (DELETE /user/{id})
+
+```http
+DELETE /user/664e2278eb7c3e3b9abfcd98
 ```
 
 ## 📁 Estrutura do Projeto
